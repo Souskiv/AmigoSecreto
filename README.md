@@ -7,4 +7,4 @@ cuenta con tres funciones:
 
 2. limpiarCaja() : esta funcion limpia el espacio de escribir nombres para que el usuario no deba eliminar lo que ingreso para agregar otro nombre.
 
-3. soretarAmigo() : esta funcion utiliza el Math.random() para seleccionar un indice aleatorio del arreglo y devolver el nombre de lapersona en ese indice. 
+3. soretarAmigo() : esta funcion utiliza el Math.random() para seleccionar un indice aleatorio del arreglo y devolver el nombre de la persona en ese indice. 
